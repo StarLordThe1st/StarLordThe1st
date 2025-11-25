@@ -36,11 +36,6 @@ I’m passionate about the world behind the scenes—systems design, backend eng
 
 - 📚I'm currently learning how to DevOps!  
 
-
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -89,20 +84,4 @@ I’m passionate about the world behind the scenes—systems design, backend eng
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarLordThe1st&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</td></tr></table>
